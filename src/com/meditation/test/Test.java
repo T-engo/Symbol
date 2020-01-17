@@ -16,7 +16,7 @@ public class Test {
         String ww = "";
 
         try {
-            InputStream in = new FileInputStream("mysqlutin.properties");
+            InputStream in = new FileInputStream("aa//mysqlutin.properties");
             Properties pro = new Properties();
             pro.load(in);
             System.out.println(pro.getProperty("username"));
