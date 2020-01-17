@@ -13,7 +13,7 @@ public class Test {
         map.put("e","ea,ed");
         map.put("d","fgf,gh,jj");
         list.add(map);
-        String ww = "";
+
 
         try {
             InputStream in = new FileInputStream("aa//mysqlutin.properties");
