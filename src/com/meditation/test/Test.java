@@ -8,8 +8,8 @@ import java.util.*;
 
 public class Test {
     public static void main(String[] args) {
-        String dd = "";
-        String ss = "";
+        String dd = "www";
+        String ss = "wwww";
         ArrayList list = new ArrayList<HashMap<String,String>>();
         Map map = new HashMap<String,String>();
         map.put("e","ea,ed");
