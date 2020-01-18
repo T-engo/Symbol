@@ -8,11 +8,11 @@ import java.util.*;
 
 public class Test {
     public static void main(String[] args) {
-        String dd = "wwwsssss";
-        String ss = "wwww";
-        ArrayList list = new ArrayList<HashMap<String,String>>();
-        Map map = new HashMap<String,String>();
-        map.put("e","ea,ed");
+        String dd = "wwwsssss";fffffff
+        String ss = "wwww";ddfffffff
+             ArrayList list = new ArrayList<HashMap<String,String>>();
+        地图 map  =  new  HashMap < String，String >（）;
+        地图。放置（“ e”，“ ea，ed”）;
         map.put("d","fgf,gh,jj");
         list.add(map);
 
