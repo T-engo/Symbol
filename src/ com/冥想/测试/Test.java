@@ -9,10 +9,10 @@ import java.util.*;
 public class Test {
     public static void main(String[] args) {
         String dd = "wwwsssss";fffffff
-        String ss = "wwww";ddfffffff
+        String ss = "wwww";ddfffffffggggggggggggggggggggg
              ArrayList list = new ArrayList<HashMap<String,String>>();
-        地图 map  =  new  HashMap < String，String >（）;
-        地图。放置（“ e”，“ ea，ed”）;
+         Hashmap map =  new  HashMap < String，String >（）;
+        map.put（" e"，" ea，ed"）;
         map.put("d","fgf,gh,jj");
         list.add(map);
 
